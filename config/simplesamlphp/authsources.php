@@ -8,15 +8,15 @@ $config = array(
 
     'example-userpass' => array(
         'exampleauth:UserPass',
-        'user1:user1pass' => array(
+        'vitt1:123456' => array(
             'uid' => array('1'),
             'eduPersonAffiliation' => array('group1'),
-            'email' => 'user1@example.com',
+            'email' => 'vitt1@yopmail.com',
         ),
-        'user2:user2pass' => array(
+        'vitt2:123456' => array(
             'uid' => array('2'),
             'eduPersonAffiliation' => array('group2'),
-            'email' => 'user2@example.com',
+            'email' => 'vitt2@yopmail.com',
         ),
     ),
 
