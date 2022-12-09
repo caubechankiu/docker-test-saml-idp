@@ -8,7 +8,7 @@ $config = array(
 
     'example-userpass' => array(
         'exampleauth:UserPass',
-        'vitt:123456' => array(
+        'vitt@yopmail.com:123456' => array(
             'uid' => array('1'),
             'eduPersonAffiliation' => array('group1'),
             'email' => 'vitt@yopmail.com',
