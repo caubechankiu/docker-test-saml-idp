@@ -108,6 +108,21 @@ $config = array(
             'eduPersonAffiliation' => array('group1'),
             'email' => 'sso20@zubairnews.com',
         ),
+        'vitt:12345678a' => array(
+            'uid' => array('21'),
+            'eduPersonAffiliation' => array('group1'),
+            'email' => 'vitt@yopmail.com',
+        ),
+        'vitt1:12345678a' => array(
+            'uid' => array('22'),
+            'eduPersonAffiliation' => array('group1'),
+            'email' => 'vitt1@yopmail.com',
+        ),
+        'vitt2:12345678a' => array(
+            'uid' => array('23'),
+            'eduPersonAffiliation' => array('group1'),
+            'email' => 'vitt2@yopmail.com',
+        ),
     ),
 
 );
